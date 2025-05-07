@@ -1,8 +1,8 @@
 # AYEDD_tp0
-Nombre : Yair César Alberto Hilario
+Nombre : Yair César 
 
 
-Apellido : Minaya Gutiérrez Orlando Mariaca Salazar
+Apellido : Minaya Gutiérrez 
 
 
 Código de Comisión : K1202
